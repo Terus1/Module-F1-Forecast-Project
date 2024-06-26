@@ -1,0 +1,23 @@
+.button-5days {
+    margin-right: 30px;
+}
+
+.head-5days {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.result-5days {
+    margin-top: 30px;
+
+}
+
+.b-tag {
+    font-weight: 900;
+}
+
+

@@ -1,0 +1,25 @@
+.head-currentDay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.button-currentDay {
+    margin-right: 30px;
+}
+
+.result-currentDay {
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.show-map {
+    display: none;
+}
+
+.show-map.visible {
+    display: block;
+}
